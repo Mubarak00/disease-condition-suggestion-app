@@ -1,1 +1,1 @@
-# disease-condition-suggestion-app
+# disease-condition-suggest-app
